@@ -38,3 +38,4 @@ torch==2.5.0
 matplotlib==3.9.0
 matplotlib-inline==0.1.7
 numpy==2.2.0
+icecream==2.1.2
